@@ -104,7 +104,7 @@ class AllTest():
             Log.info("**********TEST END***********")
             fp.close()
 
-        if on_off == 'off':
+        if on_off == 'on':
             send_email.Outlook()
         else:
             print("邮件发送开关配置关闭，请打开开关后可正常自动发送测试报告!")

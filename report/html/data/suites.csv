@@ -1,8 +1,0 @@
-"Status","Name","Duration in ms","Description"
-"passed","test_demo#test_case_01","0",""
-"passed","test_demo#test_case_02","1",""
-"passed","testcases.test_userlogin.test_userlogin_4#test_userlogin","4",""
-"passed","testcases.test_userlogin.test_userlogin_1#test_userlogin","4",""
-"passed","testcases.test_userlogin.test_userlogin_0#test_userlogin","6",""
-"passed","testcases.test_userlogin.test_userlogin_2#test_userlogin","7",""
-"passed","testcases.test_userlogin.test_userlogin_3#test_userlogin","4",""
