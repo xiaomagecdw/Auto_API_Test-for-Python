@@ -1,0 +1,12 @@
+2020-06-19 14:26:46,129 [INFO] AllRun.py line:104: **********TEST END***********
+2020-06-19 14:31:57,266 [INFO] AllRun.py line:104: **********TEST END***********
+2020-06-19 14:45:05,317 [INFO] AllRun.py line:33: resultPathH:\Auto_API_test\Reports\20200619\Report_20200619.html
+2020-06-19 14:45:05,317 [INFO] AllRun.py line:34: caseListFileH:\Auto_API_test\Datas\testfile.txt
+2020-06-19 14:45:40,087 [INFO] AllRun.py line:33: resultPathH:\Auto_API_test\Reports\20200619\Report_20200619.html
+2020-06-19 14:45:40,087 [INFO] AllRun.py line:34: caseListFileH:\Auto_API_test\Datas\testfile.txt
+2020-06-19 14:45:40,087 [INFO] AllRun.py line:35: caseLsit[]
+2020-06-19 14:45:40,218 [INFO] AllRun.py line:104: **********TEST END***********
+2020-06-19 14:48:02,924 [INFO] AllRun.py line:33: resultPathH:\Auto_API_test\Reports\20200619\Report_20200619.html
+2020-06-19 14:48:02,924 [INFO] AllRun.py line:34: caseListFileH:\Auto_API_test\Datas\testfile.txt
+2020-06-19 14:48:02,924 [INFO] AllRun.py line:35: caseLsit[]
+2020-06-19 14:48:03,051 [INFO] AllRun.py line:104: **********TEST END***********

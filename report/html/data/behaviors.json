@@ -1,0 +1,97 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "测试用例1",
+    "children" : [ {
+      "name" : "test_case_01",
+      "uid" : "1e81c76838c28737",
+      "parentUid" : "7705f29d640a1ba75b30219e8034a07d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592794730136,
+        "stop" : 1592794730136,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7705f29d640a1ba75b30219e8034a07d"
+  }, {
+    "name" : "测试用例2",
+    "children" : [ {
+      "name" : "test_case_02",
+      "uid" : "1bf7237828a3df64",
+      "parentUid" : "8fecada08feda27b36a122cad0b73be2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592794730138,
+        "stop" : 1592794730138,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8fecada08feda27b36a122cad0b73be2"
+  }, {
+    "name" : "test_userlogin",
+    "uid" : "f994422f5440627b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592794730140,
+      "stop" : 1592794730146,
+      "duration" : 6
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_userlogin",
+    "uid" : "9a06f45a02fc3a47",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592794730149,
+      "stop" : 1592794730153,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_userlogin",
+    "uid" : "c5e1d87716b96ac6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592794730155,
+      "stop" : 1592794730163,
+      "duration" : 8
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_userlogin",
+    "uid" : "f9f27bbacff6b3d9",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592794730165,
+      "stop" : 1592794730169,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_userlogin",
+    "uid" : "3980ec5d303f3c91",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1592794730171,
+      "stop" : 1592794730175,
+      "duration" : 4
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
