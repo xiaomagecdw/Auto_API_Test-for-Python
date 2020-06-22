@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # @Time     :2020/6/18 18:05
 # @Author   :chendaiwu_biubiubiu-----
-# @FileName :test_AllRun.py
+# @FileName :AllRun.py
 # @Sofaware :PyCharm
 
 import os
