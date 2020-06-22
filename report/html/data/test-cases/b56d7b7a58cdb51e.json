@@ -1,0 +1,60 @@
+{
+  "uid" : "b56d7b7a58cdb51e",
+  "name" : "test_case_02",
+  "fullName" : "test_demo#test_case_02",
+  "historyId" : "94fdcd9764e932b6567aad9019e59b42",
+  "time" : {
+    "start" : 1592811830486,
+    "stop" : 1592811830487,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试用例2"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "host",
+    "value" : "lenovo"
+  }, {
+    "name" : "thread",
+    "value" : "12012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "337c20b6fed0dd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592794730138,
+        "stop" : 1592794730138,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b56d7b7a58cdb51e.json",
+  "parameterValues" : [ ]
+}

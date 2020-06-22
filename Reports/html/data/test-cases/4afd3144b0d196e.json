@@ -1,0 +1,101 @@
+{
+  "uid" : "4afd3144b0d196e",
+  "name" : "test_userlogin",
+  "fullName" : "testcases.test_userlogin.test_userlogin_1#test_userlogin",
+  "historyId" : "78e0f5500c6d89aabf253162c1ab1695",
+  "time" : {
+    "start" : 1592812792134,
+    "stop" : 1592812792138,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup",
+    "time" : {
+      "start" : 1592812792133,
+      "stop" : 1592812792133,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_UnitTestCase__pytest_class_setup::0",
+    "time" : {
+      "start" : 1592812792138,
+      "stop" : 1592812792138,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_userlogin"
+  }, {
+    "name" : "subSuite",
+    "value" : "test_userlogin_1"
+  }, {
+    "name" : "host",
+    "value" : "lenovo"
+  }, {
+    "name" : "thread",
+    "value" : "21676-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_userlogin"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3599de957f8fb442",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592811830498,
+        "stop" : 1592811830502,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "418ea9bbbdc7202e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592794730149,
+        "stop" : 1592794730153,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4afd3144b0d196e.json",
+  "parameterValues" : [ ]
+}
